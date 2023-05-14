@@ -24,3 +24,20 @@ h2 {
     font-size: 50px;
 
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 50%;
+    border: solid;
+}
+.Filmkep {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 30%;
+    border: solid;
+    font-size: 20%;
+}
