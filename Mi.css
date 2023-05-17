@@ -7,11 +7,23 @@ body {
 }
 
 header {
-	background: linear-gradient(to bottom, #000000, #808080);
-	color: white;
+	background: linear-gradient(98.3deg, rgb(0, 0, 0) 10.6%, rgb(255, 0, 0) 97.7%);;	
 	padding: 20px
 }
 
-img{
+iframe{
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul a{
+	color: white
 
+}
+	
+h1{
+	color: white
+}
+body{
+background: linear-gradient(98.3deg, rgb(0, 0, 0) 10.6%, rgb(255, 0, 0) 97.7%);;	
 }
