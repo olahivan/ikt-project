@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    font-size: 50px;
+}
+table {
+    border: solid;
+    width: 60%;
+    text-align: center;
+    margin-left: 350px;
+    background-color: red;
+}
+td {
+    font-size: 40px;
+}
+body {
+    background-color: grey;
+}
+h2 {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    font-size: 50px;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 30%;
+    border: solid;
+}
+.Filmkep {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 30%;
+    border: solid;
+}

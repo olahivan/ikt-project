@@ -1,0 +1,31 @@
+body{
+    background: rgb(56, 56, 56);
+    background: linear-gradient(90deg, rgb(46, 46, 46) 0%, rgba(148,148,155,0.7634920619782948) 62%, rgba(209,211,212,1) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.kep{
+    width: 185px;
+    margin-right: auto;
+    margin-left: 20px;
+}
+
+.avif{
+    width: 350px;
+    margin-right: auto;
+    margin-left: 20px;
+}
+
+p{
+    margin-left: auto;
+}
